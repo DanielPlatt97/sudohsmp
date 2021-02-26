@@ -1,0 +1,11 @@
+name: SudoHSMP
+version: 0.1
+author: marenji
+main: me.marenji.sudohsmp.Main
+description: Plugin that controls the main gameplay changes for a sudo hardcore server
+api-version: 1.16 
+commands:
+  maxhealth:
+    description: Set the health of a single player
+  maxhealthall:
+    description: Set the health of all players

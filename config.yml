@@ -1,0 +1,25 @@
+
+minhearts: 1
+maxhearts: 15
+startinghearts: 5
+defaultheartchange: 1
+heartpenaltycooldown: 3
+
+notadmin_message: 'Only admins can use this command.'
+playernotfound_message: 'The player with the name <player> cannot be found on the server.'
+
+maxhealth_invalidargs_message: 'Invalid command arguments. The command should look like: maxhealth <player> <number_of_hearts>'
+maxhealthall_invalidargs_message: 'Invalid command arguments. The command should look like: maxhealthall <number_of_hearts>'
+maxhealth_invalidhearts_message: 'You cannot set a player to have that amount of hearts'
+maxhealth_setsuccess_message: 'The max health has been set for <player>'
+maxhealthall_setsuccess_message: 'All online players have had their max health set to a new value!'
+maxhealth_healthset_message: 'Your max health has been changed'
+maxhealth_healthlost_message: 'You have died. You have returned, but you have one less heart.'
+maxhealth_healthminimum_message: 'You have died. You have returned and you have no hearts left to sacrifice.'
+maxhealth_immunepenalty_message: 'You have died. Your max health penalty is on cooldown, so you have not lost a heart.'
+maxhealth_penaltyrespawn_message: 'Heart loss penalty cooldown has been applied for 3 minutes.'
+maxhealth_penaltyjoined_message: 'Welcome to SudoHSMP! You have 3 minutes of immunity but once the time is up you will lose a heart when you die. When the "Bad Luck" status effect is gone you will lose hearts upon death again.'
+
+diamondtribute_success_message: 'Thank you for your tribute mortal. Enjoy your extra heart.'
+emeraldtribute_success_message: 'Thank you for your tribute mortal. Enjoy your diamond.'
+diamondtribute_fail_message: 'Thank you for your tribute mortal, but I am afriad to give you more health than that, you are already too powerful.'
